@@ -1,0 +1,270 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,Latency,IdleTime,Connect
+1558849516577,0,HeapMemoryUsed,,3.9297E7,,,true,,0,0,0,0,0,0,0
+1558849516579,0,HeapMemoryMax,,3.817865216E9,,,true,,0,0,0,0,0,0,0
+1558849516582,0,ProcessCpuLoad,,0.0,,,true,,0,0,0,0,0,0,0
+1558849516584,0,ThreadCount,,28.0,,,true,,0,0,0,0,0,0,0
+1558849517597,0,HeapMemoryUsed,,1.57766088E8,,,true,,0,0,0,0,0,0,0
+1558849517598,0,HeapMemoryMax,,3.817865216E9,,,true,,0,0,0,0,0,0,0
+1558849517599,0,ProcessCpuLoad,,0.5163702711543732,,,true,,0,0,0,0,0,0,0
+1558849517600,0,ThreadCount,,31.0,,,true,,0,0,0,0,0,0,0
+1558849517600,0,Scavenge CollectionCount,,0.0,,,true,,0,0,0,0,0,0,0
+1558849517669,0,Scavenge CollectionTime,,5.0,,,true,,0,0,0,0,0,0,0
+1558849517670,0,MarkSweep CollectionCount,,0.0,,,true,,0,0,0,0,0,0,0
+1558849517672,0,MarkSweep CollectionTime,,0.0,,,true,,0,0,0,0,0,0,0
+1558849518674,0,HeapMemoryUsed,,4.4495968E7,,,true,,0,0,0,0,0,0,0
+1558849518676,0,HeapMemoryMax,,3.817865216E9,,,true,,0,0,0,0,0,0,0
+1558849518676,0,ProcessCpuLoad,,0.739754237209475,,,true,,0,0,0,0,0,0,0
+1558849518677,0,ThreadCount,,40.0,,,true,,0,0,0,0,0,0,0
+1558849518677,0,Scavenge CollectionCount,,3.0,,,true,,0,0,0,0,0,0,0
+1558849518678,0,Scavenge CollectionTime,,6.0,,,true,,0,0,0,0,0,0,0
+1558849518678,0,MarkSweep CollectionCount,,0.0,,,true,,0,0,0,0,0,0,0
+1558849518678,0,MarkSweep CollectionTime,,0.0,,,true,,0,0,0,0,0,0,0
+1558849519681,0,HeapMemoryUsed,,3.6134664E7,,,true,,0,0,0,0,0,0,0
+1558849519682,0,HeapMemoryMax,,3.817865216E9,,,true,,0,0,0,0,0,0,0
+1558849519683,0,ProcessCpuLoad,,0.6820239047188601,,,true,,0,0,0,0,0,0,0
+1558849519684,0,ThreadCount,,40.0,,,true,,0,0,0,0,0,0,0
+1558849519684,0,Scavenge CollectionCount,,2.0,,,true,,0,0,0,0,0,0,0
+1558849519685,0,Scavenge CollectionTime,,6.0,,,true,,0,0,0,0,0,0,0
+1558849519685,0,MarkSweep CollectionCount,,0.0,,,true,,0,0,0,0,0,0,0
+1558849519686,0,MarkSweep CollectionTime,,0.0,,,true,,0,0,0,0,0,0,0
+1558849520689,0,HeapMemoryUsed,,7.8289168E7,,,true,,0,0,0,0,0,0,0
+1558849520690,0,HeapMemoryMax,,3.817865216E9,,,true,,0,0,0,0,0,0,0
+1558849520690,0,ProcessCpuLoad,,0.6418479258785055,,,true,,0,0,0,0,0,0,0
+1558849520691,0,ThreadCount,,41.0,,,true,,0,0,0,0,0,0,0
+1558849520691,0,Scavenge CollectionCount,,2.0,,,true,,0,0,0,0,0,0,0
+1558849520692,0,Scavenge CollectionTime,,10.0,,,true,,0,0,0,0,0,0,0
+1558849520692,0,MarkSweep CollectionCount,,0.0,,,true,,0,0,0,0,0,0,0
+1558849520693,0,MarkSweep CollectionTime,,0.0,,,true,,0,0,0,0,0,0,0
+1558849521695,0,HeapMemoryUsed,,5.507448E7,,,true,,0,0,0,0,0,0,0
+1558849521697,0,HeapMemoryMax,,3.817865216E9,,,true,,0,0,0,0,0,0,0
+1558849521698,0,ProcessCpuLoad,,0.5832797258473458,,,true,,0,0,0,0,0,0,0
+1558849521698,0,ThreadCount,,55.0,,,true,,0,0,0,0,0,0,0
+1558849521699,0,Scavenge CollectionCount,,2.0,,,true,,0,0,0,0,0,0,0
+1558849521699,0,Scavenge CollectionTime,,13.0,,,true,,0,0,0,0,0,0,0
+1558849521701,0,MarkSweep CollectionCount,,0.0,,,true,,0,0,0,0,0,0,0
+1558849521702,0,MarkSweep CollectionTime,,0.0,,,true,,0,0,0,0,0,0,0
+1558849522704,0,HeapMemoryUsed,,3.7267096E7,,,true,,0,0,0,0,0,0,0
+1558849522706,0,HeapMemoryMax,,3.817865216E9,,,true,,0,0,0,0,0,0,0
+1558849522706,0,ProcessCpuLoad,,0.5801054015832056,,,true,,0,0,0,0,0,0,0
+1558849522707,0,ThreadCount,,63.0,,,true,,0,0,0,0,0,0,0
+1558849522707,0,Scavenge CollectionCount,,2.0,,,true,,0,0,0,0,0,0,0
+1558849522708,0,Scavenge CollectionTime,,7.0,,,true,,0,0,0,0,0,0,0
+1558849522708,0,MarkSweep CollectionCount,,0.0,,,true,,0,0,0,0,0,0,0
+1558849522709,0,MarkSweep CollectionTime,,0.0,,,true,,0,0,0,0,0,0,0
+1558849523714,0,HeapMemoryUsed,,3.93805584E8,,,true,,0,0,0,0,0,0,0
+1558849523716,0,HeapMemoryMax,,3.817865216E9,,,true,,0,0,0,0,0,0,0
+1558849523717,0,ProcessCpuLoad,,0.5711101235168775,,,true,,0,0,0,0,0,0,0
+1558849523717,0,ThreadCount,,64.0,,,true,,0,0,0,0,0,0,0
+1558849523718,0,Scavenge CollectionCount,,1.0,,,true,,0,0,0,0,0,0,0
+1558849523718,0,Scavenge CollectionTime,,4.0,,,true,,0,0,0,0,0,0,0
+1558849523719,0,MarkSweep CollectionCount,,0.0,,,true,,0,0,0,0,0,0,0
+1558849523720,0,MarkSweep CollectionTime,,0.0,,,true,,0,0,0,0,0,0,0
+1558849524724,0,HeapMemoryUsed,,3.15266672E8,,,true,,0,0,0,0,0,0,0
+1558849524726,0,HeapMemoryMax,,3.817865216E9,,,true,,0,0,0,0,0,0,0
+1558849524727,0,ProcessCpuLoad,,0.5652108843874252,,,true,,0,0,0,0,0,0,0
+1558849524727,0,ThreadCount,,66.0,,,true,,0,0,0,0,0,0,0
+1558849524728,0,Scavenge CollectionCount,,2.0,,,true,,0,0,0,0,0,0,0
+1558849524728,0,Scavenge CollectionTime,,9.0,,,true,,0,0,0,0,0,0,0
+1558849524729,0,MarkSweep CollectionCount,,0.0,,,true,,0,0,0,0,0,0,0
+1558849524729,0,MarkSweep CollectionTime,,0.0,,,true,,0,0,0,0,0,0,0
+1558849525735,0,HeapMemoryUsed,,8.5683424E7,,,true,,0,0,0,0,0,0,0
+1558849525736,0,HeapMemoryMax,,3.817865216E9,,,true,,0,0,0,0,0,0,0
+1558849525736,0,ProcessCpuLoad,,0.5463401370517045,,,true,,0,0,0,0,0,0,0
+1558849525737,0,ThreadCount,,78.0,,,true,,0,0,0,0,0,0,0
+1558849525737,0,Scavenge CollectionCount,,2.0,,,true,,0,0,0,0,0,0,0
+1558849525738,0,Scavenge CollectionTime,,8.0,,,true,,0,0,0,0,0,0,0
+1558849525738,0,MarkSweep CollectionCount,,0.0,,,true,,0,0,0,0,0,0,0
+1558849525739,0,MarkSweep CollectionTime,,0.0,,,true,,0,0,0,0,0,0,0
+1558849526742,0,HeapMemoryUsed,,3.08724232E8,,,true,,0,0,0,0,0,0,0
+1558849526743,0,HeapMemoryMax,,3.817865216E9,,,true,,0,0,0,0,0,0,0
+1558849526743,0,ProcessCpuLoad,,0.5488474122398384,,,true,,0,0,0,0,0,0,0
+1558849526744,0,ThreadCount,,87.0,,,true,,0,0,0,0,0,0,0
+1558849526744,0,Scavenge CollectionCount,,1.0,,,true,,0,0,0,0,0,0,0
+1558849526745,0,Scavenge CollectionTime,,5.0,,,true,,0,0,0,0,0,0,0
+1558849526745,0,MarkSweep CollectionCount,,0.0,,,true,,0,0,0,0,0,0,0
+1558849526746,0,MarkSweep CollectionTime,,0.0,,,true,,0,0,0,0,0,0,0
+1558849527749,0,HeapMemoryUsed,,3.5253616E7,,,true,,0,0,0,0,0,0,0
+1558849527750,0,HeapMemoryMax,,3.817865216E9,,,true,,0,0,0,0,0,0,0
+1558849527751,0,ProcessCpuLoad,,0.5377466623653779,,,true,,0,0,0,0,0,0,0
+1558849527751,0,ThreadCount,,87.0,,,true,,0,0,0,0,0,0,0
+1558849527752,0,Scavenge CollectionCount,,2.0,,,true,,0,0,0,0,0,0,0
+1558849527752,0,Scavenge CollectionTime,,7.0,,,true,,0,0,0,0,0,0,0
+1558849527752,0,MarkSweep CollectionCount,,0.0,,,true,,0,0,0,0,0,0,0
+1558849527753,0,MarkSweep CollectionTime,,0.0,,,true,,0,0,0,0,0,0,0
+1558849528756,0,HeapMemoryUsed,,2.69264952E8,,,true,,0,0,0,0,0,0,0
+1558849528757,0,HeapMemoryMax,,3.817865216E9,,,true,,0,0,0,0,0,0,0
+1558849528758,0,ProcessCpuLoad,,0.5391250233337702,,,true,,0,0,0,0,0,0,0
+1558849528758,0,ThreadCount,,88.0,,,true,,0,0,0,0,0,0,0
+1558849528758,0,Scavenge CollectionCount,,1.0,,,true,,0,0,0,0,0,0,0
+1558849528759,0,Scavenge CollectionTime,,3.0,,,true,,0,0,0,0,0,0,0
+1558849528759,0,MarkSweep CollectionCount,,0.0,,,true,,0,0,0,0,0,0,0
+1558849528759,0,MarkSweep CollectionTime,,0.0,,,true,,0,0,0,0,0,0,0
+1558849529762,0,HeapMemoryUsed,,4.09994672E8,,,true,,0,0,0,0,0,0,0
+1558849529763,0,HeapMemoryMax,,3.817865216E9,,,true,,0,0,0,0,0,0,0
+1558849529764,0,ProcessCpuLoad,,0.5175188466871077,,,true,,0,0,0,0,0,0,0
+1558849529764,0,ThreadCount,,102.0,,,true,,0,0,0,0,0,0,0
+1558849529765,0,Scavenge CollectionCount,,1.0,,,true,,0,0,0,0,0,0,0
+1558849529765,0,Scavenge CollectionTime,,3.0,,,true,,0,0,0,0,0,0,0
+1558849529766,0,MarkSweep CollectionCount,,0.0,,,true,,0,0,0,0,0,0,0
+1558849529766,0,MarkSweep CollectionTime,,0.0,,,true,,0,0,0,0,0,0,0
+1558849530769,0,HeapMemoryUsed,,5.2160672E7,,,true,,0,0,0,0,0,0,0
+1558849530770,0,HeapMemoryMax,,3.817865216E9,,,true,,0,0,0,0,0,0,0
+1558849530771,0,ProcessCpuLoad,,0.5265977415606471,,,true,,0,0,0,0,0,0,0
+1558849530771,0,ThreadCount,,109.0,,,true,,0,0,0,0,0,0,0
+1558849530771,0,Scavenge CollectionCount,,2.0,,,true,,0,0,0,0,0,0,0
+1558849530772,0,Scavenge CollectionTime,,9.0,,,true,,0,0,0,0,0,0,0
+1558849530772,0,MarkSweep CollectionCount,,0.0,,,true,,0,0,0,0,0,0,0
+1558849530773,0,MarkSweep CollectionTime,,0.0,,,true,,0,0,0,0,0,0,0
+1558849531823,0,HeapMemoryUsed,,2.3682076E8,,,true,,0,0,0,0,0,0,0
+1558849531824,0,HeapMemoryMax,,3.817865216E9,,,true,,0,0,0,0,0,0,0
+1558849531825,0,ProcessCpuLoad,,0.5030241399983305,,,true,,0,0,0,0,0,0,0
+1558849531826,0,ThreadCount,,110.0,,,true,,0,0,0,0,0,0,0
+1558849531826,0,Scavenge CollectionCount,,1.0,,,true,,0,0,0,0,0,0,0
+1558849531827,0,Scavenge CollectionTime,,13.0,,,true,,0,0,0,0,0,0,0
+1558849531827,0,MarkSweep CollectionCount,,0.0,,,true,,0,0,0,0,0,0,0
+1558849531828,0,MarkSweep CollectionTime,,0.0,,,true,,0,0,0,0,0,0,0
+1558849532831,0,HeapMemoryUsed,,4.28030888E8,,,true,,0,0,0,0,0,0,0
+1558849532832,0,HeapMemoryMax,,3.817865216E9,,,true,,0,0,0,0,0,0,0
+1558849532832,0,ProcessCpuLoad,,0.5225311836643151,,,true,,0,0,0,0,0,0,0
+1558849532833,0,ThreadCount,,110.0,,,true,,0,0,0,0,0,0,0
+1558849532833,0,Scavenge CollectionCount,,1.0,,,true,,0,0,0,0,0,0,0
+1558849532834,0,Scavenge CollectionTime,,3.0,,,true,,0,0,0,0,0,0,0
+1558849532834,0,MarkSweep CollectionCount,,0.0,,,true,,0,0,0,0,0,0,0
+1558849532834,0,MarkSweep CollectionTime,,0.0,,,true,,0,0,0,0,0,0,0
+1558849533839,0,HeapMemoryUsed,,5.18130616E8,,,true,,0,0,0,0,0,0,0
+1558849533841,0,HeapMemoryMax,,3.817865216E9,,,true,,0,0,0,0,0,0,0
+1558849533842,0,ProcessCpuLoad,,0.5115267910372379,,,true,,0,0,0,0,0,0,0
+1558849533843,0,ThreadCount,,123.0,,,true,,0,0,0,0,0,0,0
+1558849533844,0,Scavenge CollectionCount,,1.0,,,true,,0,0,0,0,0,0,0
+1558849533845,0,Scavenge CollectionTime,,7.0,,,true,,0,0,0,0,0,0,0
+1558849533846,0,MarkSweep CollectionCount,,0.0,,,true,,0,0,0,0,0,0,0
+1558849533846,0,MarkSweep CollectionTime,,0.0,,,true,,0,0,0,0,0,0,0
+1558849534849,0,HeapMemoryUsed,,6.37712408E8,,,true,,0,0,0,0,0,0,0
+1558849534850,0,HeapMemoryMax,,3.817865216E9,,,true,,0,0,0,0,0,0,0
+1558849534851,0,ProcessCpuLoad,,0.4986053968452294,,,true,,0,0,0,0,0,0,0
+1558849534851,0,ThreadCount,,131.0,,,true,,0,0,0,0,0,0,0
+1558849534852,0,Scavenge CollectionCount,,1.0,,,true,,0,0,0,0,0,0,0
+1558849534852,0,Scavenge CollectionTime,,5.0,,,true,,0,0,0,0,0,0,0
+1558849534852,0,MarkSweep CollectionCount,,0.0,,,true,,0,0,0,0,0,0,0
+1558849534853,0,MarkSweep CollectionTime,,0.0,,,true,,0,0,0,0,0,0,0
+1558849535861,0,HeapMemoryUsed,,1.49168912E8,,,true,,0,0,0,0,0,0,0
+1558849535862,0,HeapMemoryMax,,3.817865216E9,,,true,,0,0,0,0,0,0,0
+1558849535862,0,ProcessCpuLoad,,0.5104534362436546,,,true,,0,0,0,0,0,0,0
+1558849535862,0,ThreadCount,,132.0,,,true,,0,0,0,0,0,0,0
+1558849535863,0,Scavenge CollectionCount,,2.0,,,true,,0,0,0,0,0,0,0
+1558849535863,0,Scavenge CollectionTime,,8.0,,,true,,0,0,0,0,0,0,0
+1558849535940,0,MarkSweep CollectionCount,,0.0,,,true,,0,0,0,0,0,0,0
+1558849535942,0,MarkSweep CollectionTime,,0.0,,,true,,0,0,0,0,0,0,0
+1558849536944,0,HeapMemoryUsed,,3.28349264E8,,,true,,0,0,0,0,0,0,0
+1558849536945,0,HeapMemoryMax,,3.817865216E9,,,true,,0,0,0,0,0,0,0
+1558849536945,0,ProcessCpuLoad,,0.5045664667031692,,,true,,0,0,0,0,0,0,0
+1558849536945,0,ThreadCount,,132.0,,,true,,0,0,0,0,0,0,0
+1558849536946,0,Scavenge CollectionCount,,1.0,,,true,,0,0,0,0,0,0,0
+1558849536946,0,Scavenge CollectionTime,,10.0,,,true,,0,0,0,0,0,0,0
+1558849536947,0,MarkSweep CollectionCount,,0.0,,,true,,0,0,0,0,0,0,0
+1558849536947,0,MarkSweep CollectionTime,,0.0,,,true,,0,0,0,0,0,0,0
+1558849537952,0,HeapMemoryUsed,,3.60746488E8,,,true,,0,0,0,0,0,0,0
+1558849537953,0,HeapMemoryMax,,3.817865216E9,,,true,,0,0,0,0,0,0,0
+1558849537954,0,ProcessCpuLoad,,0.4933713031814969,,,true,,0,0,0,0,0,0,0
+1558849537954,0,ThreadCount,,145.0,,,true,,0,0,0,0,0,0,0
+1558849537955,0,Scavenge CollectionCount,,1.0,,,true,,0,0,0,0,0,0,0
+1558849537955,0,Scavenge CollectionTime,,4.0,,,true,,0,0,0,0,0,0,0
+1558849537956,0,MarkSweep CollectionCount,,0.0,,,true,,0,0,0,0,0,0,0
+1558849537956,0,MarkSweep CollectionTime,,0.0,,,true,,0,0,0,0,0,0,0
+1558849538960,0,HeapMemoryUsed,,3.80281936E8,,,true,,0,0,0,0,0,0,0
+1558849538961,0,HeapMemoryMax,,3.817865216E9,,,true,,0,0,0,0,0,0,0
+1558849538962,0,ProcessCpuLoad,,0.48514319915626297,,,true,,0,0,0,0,0,0,0
+1558849538962,0,ThreadCount,,148.0,,,true,,0,0,0,0,0,0,0
+1558849538963,0,Scavenge CollectionCount,,1.0,,,true,,0,0,0,0,0,0,0
+1558849538963,0,Scavenge CollectionTime,,5.0,,,true,,0,0,0,0,0,0,0
+1558849538964,0,MarkSweep CollectionCount,,0.0,,,true,,0,0,0,0,0,0,0
+1558849538964,0,MarkSweep CollectionTime,,0.0,,,true,,0,0,0,0,0,0,0
+1558849539969,0,HeapMemoryUsed,,4.46865056E8,,,true,,0,0,0,0,0,0,0
+1558849539970,0,HeapMemoryMax,,3.817865216E9,,,true,,0,0,0,0,0,0,0
+1558849539971,0,ProcessCpuLoad,,0.49841350871801987,,,true,,0,0,0,0,0,0,0
+1558849539971,0,ThreadCount,,153.0,,,true,,0,0,0,0,0,0,0
+1558849539971,0,Scavenge CollectionCount,,1.0,,,true,,0,0,0,0,0,0,0
+1558849539972,0,Scavenge CollectionTime,,3.0,,,true,,0,0,0,0,0,0,0
+1558849539972,0,MarkSweep CollectionCount,,0.0,,,true,,0,0,0,0,0,0,0
+1558849539973,0,MarkSweep CollectionTime,,0.0,,,true,,0,0,0,0,0,0,0
+1558849540975,0,HeapMemoryUsed,,4.89159632E8,,,true,,0,0,0,0,0,0,0
+1558849540976,0,HeapMemoryMax,,3.817865216E9,,,true,,0,0,0,0,0,0,0
+1558849540977,0,ProcessCpuLoad,,0.500135921017713,,,true,,0,0,0,0,0,0,0
+1558849540977,0,ThreadCount,,156.0,,,true,,0,0,0,0,0,0,0
+1558849540977,0,Scavenge CollectionCount,,1.0,,,true,,0,0,0,0,0,0,0
+1558849540978,0,Scavenge CollectionTime,,10.0,,,true,,0,0,0,0,0,0,0
+1558849540978,0,MarkSweep CollectionCount,,0.0,,,true,,0,0,0,0,0,0,0
+1558849540979,0,MarkSweep CollectionTime,,0.0,,,true,,0,0,0,0,0,0,0
+1558849541985,0,HeapMemoryUsed,,4.3532856E8,,,true,,0,0,0,0,0,0,0
+1558849541987,0,HeapMemoryMax,,3.817865216E9,,,true,,0,0,0,0,0,0,0
+1558849541988,0,ProcessCpuLoad,,0.4732145416481747,,,true,,0,0,0,0,0,0,0
+1558849541989,0,ThreadCount,,164.0,,,true,,0,0,0,0,0,0,0
+1558849541989,0,Scavenge CollectionCount,,1.0,,,true,,0,0,0,0,0,0,0
+1558849541990,0,Scavenge CollectionTime,,5.0,,,true,,0,0,0,0,0,0,0
+1558849541990,0,MarkSweep CollectionCount,,0.0,,,true,,0,0,0,0,0,0,0
+1558849541991,0,MarkSweep CollectionTime,,0.0,,,true,,0,0,0,0,0,0,0
+1558849542994,0,HeapMemoryUsed,,3.64786784E8,,,true,,0,0,0,0,0,0,0
+1558849542995,0,HeapMemoryMax,,3.817865216E9,,,true,,0,0,0,0,0,0,0
+1558849542996,0,ProcessCpuLoad,,0.47848145382620333,,,true,,0,0,0,0,0,0,0
+1558849542996,0,ThreadCount,,168.0,,,true,,0,0,0,0,0,0,0
+1558849542996,0,Scavenge CollectionCount,,1.0,,,true,,0,0,0,0,0,0,0
+1558849542997,0,Scavenge CollectionTime,,14.0,,,true,,0,0,0,0,0,0,0
+1558849542997,0,MarkSweep CollectionCount,,0.0,,,true,,0,0,0,0,0,0,0
+1558849542998,0,MarkSweep CollectionTime,,0.0,,,true,,0,0,0,0,0,0,0
+1558849545873,0,HeapMemoryUsed,,3.3454684E8,,,true,,0,0,0,0,0,0,0
+1558849545955,0,HeapMemoryMax,,3.817865216E9,,,true,,0,0,0,0,0,0,0
+1558849547348,0,ProcessCpuLoad,,0.3963778017136492,,,true,,0,0,0,0,0,0,0
+1558849550123,0,ThreadCount,,173.0,,,true,,0,0,0,0,0,0,0
+1558849551566,0,Scavenge CollectionCount,,1.0,,,true,,0,0,0,0,0,0,0
+1558849552067,0,Scavenge CollectionTime,,4.0,,,true,,0,0,0,0,0,0,0
+1558849552344,0,MarkSweep CollectionCount,,0.0,,,true,,0,0,0,0,0,0,0
+1558849552544,0,MarkSweep CollectionTime,,0.0,,,true,,0,0,0,0,0,0,0
+1558849554054,0,HeapMemoryUsed,,5.00701024E8,,,true,,0,0,0,0,0,0,0
+1558849554080,0,HeapMemoryMax,,3.817865216E9,,,true,,0,0,0,0,0,0,0
+1558849554080,0,ProcessCpuLoad,,0.1401691729804198,,,true,,0,0,0,0,0,0,0
+1558849554081,0,ThreadCount,,173.0,,,true,,0,0,0,0,0,0,0
+1558849554081,0,Scavenge CollectionCount,,0.0,,,true,,0,0,0,0,0,0,0
+1558849554082,0,Scavenge CollectionTime,,0.0,,,true,,0,0,0,0,0,0,0
+1558849554083,0,MarkSweep CollectionCount,,0.0,,,true,,0,0,0,0,0,0,0
+1558849554083,0,MarkSweep CollectionTime,,0.0,,,true,,0,0,0,0,0,0,0
+1558849555784,0,HeapMemoryUsed,,6.38168304E8,,,true,,0,0,0,0,0,0,0
+1558849556311,0,HeapMemoryMax,,3.817865216E9,,,true,,0,0,0,0,0,0,0
+1558849556754,0,ProcessCpuLoad,,0.04574527217623506,,,true,,0,0,0,0,0,0,0
+1558849557376,0,ThreadCount,,173.0,,,true,,0,0,0,0,0,0,0
+1558849558088,0,Scavenge CollectionCount,,0.0,,,true,,0,0,0,0,0,0,0
+1558849558720,0,Scavenge CollectionTime,,0.0,,,true,,0,0,0,0,0,0,0
+1558849559294,0,MarkSweep CollectionCount,,0.0,,,true,,0,0,0,0,0,0,0
+1558849559844,0,MarkSweep CollectionTime,,0.0,,,true,,0,0,0,0,0,0,0
+1558849562188,0,HeapMemoryUsed,,6.74165392E8,,,true,,0,0,0,0,0,0,0
+1558849563050,0,HeapMemoryMax,,3.817865216E9,,,true,,0,0,0,0,0,0,0
+1558849563871,0,ProcessCpuLoad,,0.0058492702367554635,,,true,,0,0,0,0,0,0,0
+1558849566518,0,ThreadCount,,173.0,,,true,,0,0,0,0,0,0,0
+1558849566526,0,Scavenge CollectionCount,,0.0,,,true,,0,0,0,0,0,0,0
+1558849566534,0,Scavenge CollectionTime,,0.0,,,true,,0,0,0,0,0,0,0
+1558849566535,0,MarkSweep CollectionCount,,0.0,,,true,,0,0,0,0,0,0,0
+1558849566536,0,MarkSweep CollectionTime,,0.0,,,true,,0,0,0,0,0,0,0
+1558849567540,0,HeapMemoryUsed,,7.34577368E8,,,true,,0,0,0,0,0,0,0
+1558849567540,0,HeapMemoryMax,,3.817865216E9,,,true,,0,0,0,0,0,0,0
+1558849567541,0,ProcessCpuLoad,,0.09614603582145642,,,true,,0,0,0,0,0,0,0
+1558849567541,0,ThreadCount,,218.0,,,true,,0,0,0,0,0,0,0
+1558849567541,0,Scavenge CollectionCount,,1.0,,,true,,0,0,0,0,0,0,0
+1558849567542,0,Scavenge CollectionTime,,6.0,,,true,,0,0,0,0,0,0,0
+1558849567542,0,MarkSweep CollectionCount,,0.0,,,true,,0,0,0,0,0,0,0
+1558849567542,0,MarkSweep CollectionTime,,0.0,,,true,,0,0,0,0,0,0,0
+1558849568546,0,HeapMemoryUsed,,9.8960376E7,,,true,,0,0,0,0,0,0,0
+1558849569394,0,HeapMemoryMax,,3.817865216E9,,,true,,0,0,0,0,0,0,0
+1558849569402,0,ProcessCpuLoad,,0.3757525877014279,,,true,,0,0,0,0,0,0,0
+1558849569408,0,ThreadCount,,218.0,,,true,,0,0,0,0,0,0,0
+1558849569410,0,Scavenge CollectionCount,,2.0,,,true,,0,0,0,0,0,0,0
+1558849569411,0,Scavenge CollectionTime,,17.0,,,true,,0,0,0,0,0,0,0
+1558849569412,0,MarkSweep CollectionCount,,0.0,,,true,,0,0,0,0,0,0,0
+1558849569413,0,MarkSweep CollectionTime,,0.0,,,true,,0,0,0,0,0,0,0
+1558849570425,0,HeapMemoryUsed,,5.20396376E8,,,true,,0,0,0,0,0,0,0
+1558849570563,0,HeapMemoryMax,,3.817865216E9,,,true,,0,0,0,0,0,0,0
+1558849570565,0,ProcessCpuLoad,,0.24887706282872077,,,true,,0,0,0,0,0,0,0
+1558849570566,0,ThreadCount,,218.0,,,true,,0,0,0,0,0,0,0
+1558849570567,0,Scavenge CollectionCount,,1.0,,,true,,0,0,0,0,0,0,0
+1558849570568,0,Scavenge CollectionTime,,4.0,,,true,,0,0,0,0,0,0,0
+1558849570570,0,MarkSweep CollectionCount,,0.0,,,true,,0,0,0,0,0,0,0
+1558849570571,0,MarkSweep CollectionTime,,0.0,,,true,,0,0,0,0,0,0,0
+1558849573956,0,HeapMemoryUsed,,5.77051792E8,,,true,,0,0,0,0,0,0,0

@@ -1,0 +1,43 @@
+buildscript {
+    repositories {
+        mavenCentral()
+    }
+    dependencies {
+        classpath("org.springframework.boot:spring-boot-gradle-plugin:2.1.4.RELEASE")
+    }
+}
+
+apply plugin: 'java'
+apply plugin: 'eclipse'
+apply plugin: 'idea'
+apply plugin: 'org.springframework.boot'
+apply plugin: 'io.spring.dependency-management'
+
+bootJar {
+    baseName = 'performance-training-java-app'
+    version =  '0.1.0'
+}
+
+repositories {
+    mavenCentral()
+}
+
+sourceCompatibility = 1.8
+targetCompatibility = 1.8
+
+dependencies {
+    compile("org.springframework.boot:spring-boot-starter-web")
+    testCompile('org.springframework.boot:spring-boot-starter-test')
+    testCompile('com.jayway.jsonpath:json-path')
+}
+
+//  -Dcom.sun.management.jmxremote -Dcom.sun.management.jmxremote.port=8008 -Dcom.sun.management.jmxremote.authenticate=false -Dcom.sun.management.jmxremote.ssl=false
+bootRun {
+    jvmArgs = [
+            "-Dcom.sun.management.jmxremote",
+            "-Djava.rmi.server.hostname=0.0.0.0",
+            "-Dcom.sun.management.jmxremote.port=8008",
+            "-Dcom.sun.management.jmxremote.authenticate=false",
+            "-Dcom.sun.management.jmxremote.ssl=false"]
+}
+
