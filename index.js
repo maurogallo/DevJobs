@@ -4,6 +4,8 @@ const path = require('path');
 const router = require('./routes');
 
 
+require('dotenv').config({ path : 'variables.env'});
+
 const app = express();
 
 // hailitar handlebars como view
@@ -21,4 +23,4 @@ app.use(express.static(path.join(__dirname, 'public')));
 
 app.use('/',router());
 
-app.listen(5000);
+app.listen(process.env.PUERTO);
