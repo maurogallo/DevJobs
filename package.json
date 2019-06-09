@@ -4,7 +4,9 @@
   "description": "Portal DevJobs con NodeJS, handelbars Mongoose",
   "main": "index.js",
   "scripts": {
-    "start": "nodemon ./index"
+    "dev": "nodemon ./index",
+    "start" : "concurrently \"npm run dev\" \" npm run watch\" ",
+    "watch" : "webpack --w --mode development"
   },
   "repository": {
     "type": "git",
@@ -17,6 +19,7 @@
   },
   "homepage": "https://github.com/maurogallo/DevJobs#readme",
   "dependencies": {
+    "concurrently": "^4.1.0",
     "connect-mongo": "^2.0.3",
     "cookie-parser": "^1.4.4",
     "dotenv": "^8.0.0",
@@ -28,6 +31,11 @@
     "slug": "^1.1.0"
   },
   "devDependencies": {
-    "nodemon": "^1.19.1"
+    "@babel/core": "^7.4.5",
+    "@babel/preset-env": "^7.4.5",
+    "babel-loader": "^8.0.6",
+    "nodemon": "^1.19.1",
+    "webpack": "^4.33.0",
+    "webpack-cli": "^3.3.3"
   }
 }
