@@ -1,5 +1,8 @@
 module.exports = {
-    seleccionarSkills : (selecionadas = [], opciones) => {
+    seleccionarSkills : (seleccionadas = [], opciones) => {
+
+            console.log(opciones);
+
         const skills = ['HTML5', 'CSS3', 'CSSGrid', 'Flexbox', 
         'JavaScript', 'jQuery', 'Node', 'Angular', 'VueJS', 'ReactJS',
         'React Hooks', 'Redux', 'Apollo', 'GraphQL', 'TypeScript', 
@@ -9,7 +12,7 @@ module.exports = {
          let html =  '';
          skills.forEach(skill => {
              html += `
-                    <li>${skill}</li>       
+                    <li ${seleccionadas.includes(skill) ? 'class="activo"' : ''}>${skill}</li>       
              `;
          });
 

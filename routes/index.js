@@ -14,7 +14,10 @@ module.exports = () => {
 
 
     // mostrar vacante (singular)
-router.get('/vacantes/:url', vacantesController.mostrarVacante);
+    router.get('/vacantes/:url', vacantesController.mostrarVacante);
+
+    // editar vacante
+    router.get('/vacantes/editar/:url', vacantesController.formEditarVacante);
 
     return router;
 }
