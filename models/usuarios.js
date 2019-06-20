@@ -25,7 +25,7 @@ const usuariosSchema = new mongoose.Schema({
 
 // metodo para hashear los passwords
 
-usuarioSchema.pre('save', async function(next){
+usuariosSchema.pre('save', async function(next){
     // si el password ya esta hashado
     if(!this.isModified('password')){
         return next(); // deten la ejecucion
@@ -36,4 +36,4 @@ usuarioSchema.pre('save', async function(next){
     next();
 });
 
-module.exports = mongoose.model('Usuarios', usuarioSchema);
+module.exports = mongoose.model('Usuarios', usuariosSchema);
